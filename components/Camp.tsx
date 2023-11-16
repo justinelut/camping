@@ -52,13 +52,13 @@ const Camp = () => {
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite 
           backgroundimg="bg-bg-img-1"
-          title="Putuk Truno Camp"
-          subtitle="Prigen, Pasuruan"
+          title="Nakuru Kenya"
+          subtitle="Hyrax Hill"
           peopleJoined="50+ Joined"
         />
         <CampSite 
           backgroundimg="bg-bg-img-2"
-          title="Mountain View Camp"
+          title="Hill View Camp"
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
